@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/java-academy-kafka-live" />
+        <option name="gradleJvm" value="corretto-18" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/java-academy-kafka-live" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/spring-with-kafka-demo" />
+        <option name="gradleJvm" value="corretto-18" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/spring-with-kafka-demo" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

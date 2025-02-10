@@ -1,5 +1,12 @@
 # How to test it
-1. Run docker-compose up from the compose.yaml file. We have the GUI tool RedPanda for displaying the Kafka messages.
+We have 2 Kafka demos - one is pure Java Kafka, the other one is Kafka with Spring.
+
+1. Run `docker-compose up` in the relevant project directory - the compose.yaml file should be executed. 
+2. We have the GUI tool RedPanda for displaying the Kafka messages at http://localhost:9080/topics - loaded from the compose.yaml file.
+![img.png](img.png)
+
+
+3. We have logs enabled thanks to the `logback.xml` file in the resources
 
 
 # Getting Started
